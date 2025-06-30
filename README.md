@@ -1,4 +1,4 @@
-# Rick and Morty Explorer
+# Explorador de personajes de Rick y Morty
 
 Aplicación web construida con Next.js y Tailwind CSS que consume la API pública de Rick and Morty para mostrar personajes de forma visual y filtrarlos por nombre, estado y género.
 
